@@ -79,7 +79,3 @@ All code was written by me, with AI assistance for debugging and conceptual guid
 - ✅ **Win Condition**: All enemies removed = "You Win" message
 - ✅ **Code Organization**: Separate Particle class, arrays for particles and enemies
 
-
-## 📄 License
-
-This project was created for educational purposes as part of a course assignment.
