@@ -72,12 +72,12 @@ All code was written by me, with AI assistance for debugging and conceptual guid
 
 ## Assignment Requirements Checklist
 
-**Particle Class**: Complete with position, velocity, lifespan
-**Particle Integration**: Particles appear when enemies are attacked (X key)
-**Good Food**: 8 pieces, score increases, respawns on collection
-**Enemies with Health**: 3 HP each, lose health when attacked
-**Win Condition**: All enemies removed = "You Win" message
-**Code Organization**: Separate Particle class, arrays for particles and enemies
+- ✅ **Particle Class**: Complete with position, velocity, lifespan
+- ✅ **Particle Integration**: Particles appear when enemies are attacked (X key)
+- ✅ **Good Food**: 8 pieces, score increases, respawns on collection
+- ✅ **Enemies with Health**: 3 HP each, lose health when attacked
+- ✅ **Win Condition**: All enemies removed = "You Win" message
+- ✅ **Code Organization**: Separate Particle class, arrays for particles and enemies
 
 
 ## 📄 License
